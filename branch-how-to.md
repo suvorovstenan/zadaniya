@@ -34,4 +34,4 @@
 
 сделать комит: git commit -m “full branch instruction”
 
-отправить изменения на сервер: git push
+отправить изменения на сервер: git push      
